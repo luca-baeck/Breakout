@@ -9,6 +9,16 @@ einem Schläger“ verschiedene Ziegel mit einen Ball zu treffen.</p>
 
 - [Bugs](https://github.com/luca-baeck/Breakout/issues "Issues Page")
 
+## Screenshots
+
+![Screenshot](/application-preview/gameplay.png "Screenshot")
+![Screenshot](/application-preview/pregame.png "Screenshot")
+![Screenshot](/application-preview/bestenliste.png "Screenshot")
+![Screenshot](/application-preview/anleitung.png "Screenshot")
+![Screenshot](/application-preview/entername.png "Screenshot")
+![Screenshot](/application-preview/nameentered.png "Screenshot")
+![Screenshot](/application-preview/gameplay.mp4 "Screenshot")
+
 
 ## Sprachen
 
