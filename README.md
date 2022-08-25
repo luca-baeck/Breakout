@@ -21,7 +21,7 @@ einem Schläger“ verschiedene Ziegel mit einen Ball zu treffen.</p>
 ![Screenshot](/application-preview/nameentered.png "Screenshot")
 
 Gameplay Video:
-![Video](/application-preview/gameplay.mp4 "Video")
+[Video](/application-preview/gameplay.mp4 "Video")
 
 
 ## Sprachen
