@@ -5,6 +5,8 @@ einem Schläger“ verschiedene Ziegel mit einen Ball zu treffen.</p>
 
 ## Links
 
+- [Anleitung](/Anleitung.pdf "Breakout Anleitung")
+
 - [Repository](https://github.com/luca-baeck/Breakout "Breakout Repository")
 
 - [Bugs](https://github.com/luca-baeck/Breakout/issues "Issues Page")
@@ -17,7 +19,9 @@ einem Schläger“ verschiedene Ziegel mit einen Ball zu treffen.</p>
 ![Screenshot](/application-preview/anleitung.png "Screenshot")
 ![Screenshot](/application-preview/entername.png "Screenshot")
 ![Screenshot](/application-preview/nameentered.png "Screenshot")
-![Screenshot](/application-preview/gameplay.mp4 "Screenshot")
+
+Gameplay Video:
+![Video](/application-preview/gameplay.mp4 "Video")
 
 
 ## Sprachen
